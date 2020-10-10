@@ -519,6 +519,7 @@ var cnames_active = {
   "cungudafa": "cungudafa.github.io",
   "curi": "pshrmn.github.io/curi",
   "currency": "scurker.github.io/currency.js",
+  "currencyjam": "https://aa-adnanazad.github.io/currencyjam",
   "curseapp": "mcrocks999.github.io/curseapp.js",
   "customrpc": "realalexsss.github.io/CustomRPC",
   "cville": "CVjs.github.io",
